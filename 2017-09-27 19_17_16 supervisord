@@ -1,0 +1,10 @@
+2017-07-08 15:32:47,122 INFO exited: concentratorback (terminated by SIGABRT; not expected)
+2017-07-08 15:32:48,144 INFO spawned: 'concentratorback' with pid 23015
+2017-07-08 15:32:49,157 INFO success: concentratorback entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-07-08 20:21:03,449 INFO stopped: tunslip6 (exit status 0)
+2017-07-08 20:21:04,595 INFO spawned: 'tunslip6' with pid 24939
+2017-07-08 20:21:05,926 INFO success: tunslip6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-07-08 20:23:34,783 INFO stopped: tunslip6 (exit status 0)
+2017-07-08 20:23:35,910 INFO spawned: 'tunslip6' with pid 24976
+2017-07-08 20:23:37,285 INFO success: tunslip6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+null
